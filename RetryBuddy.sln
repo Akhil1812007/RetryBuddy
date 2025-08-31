@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryBuddy", "RetryBuddy\RetryBuddy.csproj", "{BA02E4FA-72BE-4556-84CA-2F63DD9CBC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryBuddy.Tests", "RetryBuddy.Tests\RetryBuddy.Tests.csproj", "{DF93C391-4A45-499B-8C66-E060EAC05F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA02E4FA-72BE-4556-84CA-2F63DD9CBC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA02E4FA-72BE-4556-84CA-2F63DD9CBC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA02E4FA-72BE-4556-84CA-2F63DD9CBC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA02E4FA-72BE-4556-84CA-2F63DD9CBC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF93C391-4A45-499B-8C66-E060EAC05F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF93C391-4A45-499B-8C66-E060EAC05F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF93C391-4A45-499B-8C66-E060EAC05F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF93C391-4A45-499B-8C66-E060EAC05F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A53C87D-AB27-4EFB-BB8F-57973267C120}
+	EndGlobalSection
+EndGlobal
