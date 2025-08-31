@@ -8,5 +8,6 @@ namespace RetryBuddy.Core
 {
     internal class RetryBuddyCore
     {
+        //sample commit
     }
 }
